@@ -1,2 +1,3 @@
-# embed-streamable
-An Invision Community plugin that adds support for embedding Streamable videos
+# Embed Streamable
+
+An Invision Community plugin that adds support for automatically embedding Streamable videos.
